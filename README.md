@@ -8,7 +8,7 @@ The scope of this goes beyond SIEM technologies and also dives into the dependen
 
 When creating the Security Use case library, there are several objectives that require to be met for this library to be usable.
 
-1. The library needs to map to a Framework needs to map to multiple industry frameworks
+1. The library needs to map to proven Industry Frameworks
 2. The library needs to cater for use cases outside these framweworks but should be able to support them
 3. The library should both be technical, and managerial in order to assist
 
